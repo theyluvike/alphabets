@@ -1,0 +1,49 @@
+body{
+	background-color: #e5f6df;
+	text-align: center;
+}
+
+#title{
+	color: #003366;
+}
+
+.poit{
+	color: blue;
+	font-size: 20px;
+	font-family: "georgia"
+}
+
+#enter5{
+	width: 60%;
+	height: 40px;
+	border-radius: 10px;
+	border-color: #003366;
+	margin-bottom: 30px;
+	margin-right: 20px;
+}
+
+#sbut{
+	background-color: #003366;
+	color: white;
+	border: 1px solid #003366;
+	border-radius: 10px;
+	width: 100px;
+	height: 40px;
+}
+
+#tblr{
+	width: 50%;
+	font-size: 10px;
+	margin-right: 25%;
+	margin-left: 25%;
+	border: 2px solid blue;
+}
+
+th, td{
+	border: 1px solid blue;
+}
+
+img{
+	border: 2px solid blue;
+	border-radius: 10px;
+}
